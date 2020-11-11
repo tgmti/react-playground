@@ -1,0 +1,24 @@
+{
+	"name": "Camera Tests",
+	"short_name": "CameraTest",
+	"icons": [{
+			"src": "https://github.com/moigonzalez/pwa-barcode-scanner/raw/master/public/icons/icon_196x196.png",
+			"sizes": "196x196",
+			"type": "image/png"
+		},
+		{
+			"src": "https://github.com/moigonzalez/pwa-barcode-scanner/raw/master/public/icons/icon_296x296.png",
+			"sizes": "256x256",
+			"type": "image/png"
+    },
+    {
+			"src": "https://github.com/moigonzalez/pwa-barcode-scanner/raw/master/public/icons/icon_512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+    ],
+	"theme_color": "#333333",
+	"background_color": "#333333",
+	"start_url": "/",
+	"display": "standalone"
+}
